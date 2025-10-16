@@ -29,6 +29,7 @@ Publish the website in the LocalHost.
 ```
 drib.html
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -58,8 +59,8 @@ drib.html
     <b>POPULER</b> · MODEL · PHONES
     <div class="collapse navbar-collapse justify-content-end bg-dark" id="navbarNav">
       <ul class="navbar-nav">
-        <li class="nav-item"><a class="nav-link" href="#">Sign up</a></li>
-        <li class="nav-item"><a class="nav-link" href="#">Sign in</a></li>
+        <li class="nav-item navbar-right"><a class="nav-link" href="#">LOGIN</a></li>
+        <li class="nav-item navbar-right"><a class="nav-link" href="#">Sign in</a></li>
       </ul>
     </div>
   </div>
@@ -235,19 +236,18 @@ drib.html
       </div>
 
 <footer class="bg-dark text-center text-light py-1">
-   PRIME PHONES © 2025 
+   PRIME PHONES 2025 © SIVAPRASATH B-25016007
 </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
-
 ```
 
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2025-10-15 220654.png>)
+![alt text](<Screenshot 2025-10-16 160013.png>)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
