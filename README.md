@@ -43,7 +43,8 @@ drib.html
 
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
-      <a class="navbar-brand fw-bold" href="#">PRIME PHONES</a>
+      <a class="navbar-brand fw-bold" href="#">DRIBBLE  &nbsp;  &nbsp;  &nbsp;</a>
+      <a class="navbar-brand fw-bold" href="#">   shots &nbsp; designers &nbsp; teams &nbsp; community &nbsp; jobs &nbsp; ...</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -56,7 +57,7 @@ drib.html
     </div>
   </nav>
   <div class="bg-red text-center py-3 border-bottom">
-    <b>POPULER</b> · MODEL · PHONES
+    <b>What are you working on ?</b>Dribble is show and tell for designers
     <div class="collapse navbar-collapse justify-content-end bg-dark" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item navbar-right"><a class="nav-link" href="#">LOGIN</a></li>
@@ -247,7 +248,7 @@ drib.html
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2025-10-16 160013.png>)
+![alt text](<Screenshot 2025-10-17 150435.png>)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
